@@ -1,0 +1,71 @@
+/* Index Page #ebebeb */
+.logo img{height:80px}
+header{display:block;overflow:hidden;margin-top:5px}
+.navigation{display:block;overflow:hidden;border-bottom:1px solid rgba(0,0,0,.125);border-top:1px solid rgba(0,0,0,.125);background:#fff;z-index:99999999999999}
+nav {}
+nav ul{margin:0;padding:0}
+nav ul li{list-style:none;float:left;border-right:1px solid #f3f3f3}
+nav ul li a {padding:15px 25px;display:block;color:#2c2b2b;text-decoration:none}
+nav ul li:nth-child(1){border-left:1px solid #f3f3f3}
+nav ul li a:hover{background:#848484;text-decoration:none;color:#fff}
+.sticky { position: fixed;top: 0;width: 100%;}
+.float-right li{background:none !important;border:none}
+.slider{margin-bottom:20px}
+.slider img{height:350px}
+.social{margin-top:30px;margin-bottom:10px}
+.social img{height:40px}
+.login{background:#dbdbdb61}
+.active_nav{background:#5a6268}
+.active_nav a{color:#fff}
+
+.margin-top{margin-top:20px}
+.image_galary img{width:100%;height:200px}
+.margin-top15{margin-top:15px}
+
+
+/* Admin Page */
+.single_content{margin-bottom:20px;padding:0px}
+
+.single_sidebar h4{background:#575454;padding:5px;padding-left:10px;color:#fff;margin:0px}
+.single_sidebar{margin-bottom:20px}
+.single_sidebar ul{margin:0;padding:5px;border:1px solid rgba(0,0,0,.125)}
+.single_sidebar ul li{list-style:none}
+.single_sidebar ul li a{text-decoration:none;padding:5px 0px;display:block;color:#000}
+.single_sidebar ul li{list-style-image: url('images/arrow.png');margin-left:25px;}
+.single_sidebar p{border:1px solid rgba(0,0,0,.125);padding:10px}
+thead{background:#5a626814 !important}
+
+/* Login Page */
+.logo{margin-bottom:5px}
+.content_area_login{width:400px;margin: 0 auto}
+.logo_login{text-align: center;margin-top: 135px;margin-bottom: 20px}
+.logo_login img{height: 200px}
+.login_as{margin-top:15px}
+
+/* Footer Page */
+footer{margin-top:80px;background:#f1f1f194;border-top:1px solid rgba(0,0,0,.125)}
+.footer_top{padding-top:40px;padding-bottom:40px;}
+.footer_top h4{margin-bottom:10px}
+.footer_bottom{background:#575454;text-align:center}
+.footer_bottom h5{padding:15px;color:#fff;font-size:16px}
+.map img{width:310px;height:185px;margin-top:5px}
+
+
+
+/* Students Admin Page .form-control,.btn{border-radius:0px !important} */
+.st_search{width:100%;max-width:580px;position:absolute}
+.search_students{margin-bottom:20px;overflow:hidden}
+
+
+/* Notice Page */
+.single_notice{margin-bottom:20px}
+.list-group-item.active{background-color:#5a6268 !important;border-color:#5a6268 !important}
+.badge-primary{background-color:#5a6268 !important}
+
+
+
+.total_class option{border-bottom:1px solid #ced4da;padding:7px 10px}
+.total_class option:last-child{border-bottom:0px}
+.course_menu{margin-top:20px !important}
+
+
